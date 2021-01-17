@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_36">36dp</dimen>
+    <dimen name="space_4">4dp</dimen>
+    <dimen name="title_size">24sp</dimen>
+    <dimen name="elevation_2">2dp</dimen>
+    <dimen name="radius_6">6dp</dimen>
+    <dimen name="space_64">64dp</dimen>
+</resources>
